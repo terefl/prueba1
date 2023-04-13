@@ -5,6 +5,7 @@ public class ciclo {
 	private String nombre;
 	private int duracion;
 	private String comentario;
+	private int alumno;
 	public int getCodigo() {
 		return codigo;
 	}
